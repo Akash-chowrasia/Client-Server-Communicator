@@ -1,7 +1,7 @@
 # Client-Server-Communicator 
 It is a simple example of socket programming using Python Language
 <strong><h3> What is Client-Server Communication ?</h3></strong>
-Client-Server communication is used make communication between single server with several client hosts located at different places.
+Client-Server communication is used to make communication between single server with several client hosts located at different places.
 <hr>
 <p>This project is an illustration of How a server and client communicate with each other using single client and single server. </p>
 <strong><h3>Steps to be followed....</h3></strong>
@@ -18,6 +18,8 @@ Client-Server communication is used make communication between single server wit
 1) execute Serverside.py on an window and hold.
 2) execute Clientside.py on different window.
 3) You will be able to see the communication between both the windows, as per flow into the project.
+
+<hr><hr>
 
 
 <strong> Thank you !!!</strong>
