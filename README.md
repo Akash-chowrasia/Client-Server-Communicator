@@ -1,4 +1,6 @@
-# Client-Server-Communicator 
+# Client-Server-Communicator
+<strong>With Pylint rating 10/10</strong>
+<hr>
 It is a simple example of socket programming using Python Language
 <strong><h3> What is Client-Server Communication ?</h3></strong>
 Client-Server communication is used to make communication between single server with several client hosts located at different places.
